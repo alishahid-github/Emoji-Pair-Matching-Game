@@ -1,0 +1,11 @@
+D:\Visual Studio Projects\Matching_Pairs_Of_Emoji\Matching_Pairs_Of_Emoji\bin\Debug\Matching_Pairs_Of_Emoji.exe.config
+D:\Visual Studio Projects\Matching_Pairs_Of_Emoji\Matching_Pairs_Of_Emoji\bin\Debug\Matching_Pairs_Of_Emoji.exe
+D:\Visual Studio Projects\Matching_Pairs_Of_Emoji\Matching_Pairs_Of_Emoji\bin\Debug\Matching_Pairs_Of_Emoji.pdb
+D:\Visual Studio Projects\Matching_Pairs_Of_Emoji\Matching_Pairs_Of_Emoji\obj\Debug\Matching_Pairs_Of_Emoji.csprojAssemblyReference.cache
+D:\Visual Studio Projects\Matching_Pairs_Of_Emoji\Matching_Pairs_Of_Emoji\obj\Debug\Matching_Pairs_Of_Emoji.homeScreen.resources
+D:\Visual Studio Projects\Matching_Pairs_Of_Emoji\Matching_Pairs_Of_Emoji\obj\Debug\Matching_Pairs_Of_Emoji.Properties.Resources.resources
+D:\Visual Studio Projects\Matching_Pairs_Of_Emoji\Matching_Pairs_Of_Emoji\obj\Debug\Matching_Pairs_Of_Emoji.csproj.GenerateResource.cache
+D:\Visual Studio Projects\Matching_Pairs_Of_Emoji\Matching_Pairs_Of_Emoji\obj\Debug\Matching_Pairs_Of_Emoji.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Matching_Pairs_Of_Emoji\Matching_Pairs_Of_Emoji\obj\Debug\Matching_Pairs_Of_Emoji.exe
+D:\Visual Studio Projects\Matching_Pairs_Of_Emoji\Matching_Pairs_Of_Emoji\obj\Debug\Matching_Pairs_Of_Emoji.pdb
+D:\Visual Studio Projects\Matching_Pairs_Of_Emoji\Matching_Pairs_Of_Emoji\obj\Debug\Matching_Pairs_Of_Emoji.Menu.resources
